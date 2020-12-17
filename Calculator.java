@@ -9,6 +9,6 @@ class Calculator{
     System.out.println(add(2,3));
   }
   public static int multiply(int num1, int num2){
-    return num1*num2;
+    return num1*num2*1;
   }
 }
