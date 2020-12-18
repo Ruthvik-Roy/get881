@@ -20,4 +20,8 @@ public class Calc {
 	public void message() {
 		System.out.println("Hello");
 	}
+	
+	public void display() {
+		System.out.println("Hi friends");
+	}
 }
