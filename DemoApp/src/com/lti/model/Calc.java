@@ -20,4 +20,10 @@ public class Calc {
 	public void display() {
 		System.out.println("Hi friends");
 	}
+	
+	public void divide(int num1, int num2) {
+		System.out.println("Multiplication = " + (num1 / num2));
+	}
+	
+	
 }
