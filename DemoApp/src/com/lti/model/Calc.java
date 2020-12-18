@@ -13,17 +13,4 @@ public class Calc {
 		System.out.println("Multiplication = " + (num1 * num2));
 	}
 	
-	public void message() {
-		System.out.println("Hello");
-	}
-	
-	public void display() {
-		System.out.println("Hi friends");
-	}
-	
-	public void divide(int num1, int num2) {
-		System.out.println("Multiplication = " + (num1 / num2));
-	}
-	
-	
 }
